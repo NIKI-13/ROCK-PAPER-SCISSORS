@@ -1,0 +1,39 @@
+body{
+    background: #000033;
+}
+
+.container {
+    text-align: center;
+    color: orange;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 1);
+}
+
+h2{
+    margin-top: 20px;
+}
+
+#info{
+    color:#59ff22;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#new {
+    background-color: #59ff22;
+    color: black;
+    border: 3px solid black;
+    border-radius: 7px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px rgba(89, 255, 34, 0.5);
+}
